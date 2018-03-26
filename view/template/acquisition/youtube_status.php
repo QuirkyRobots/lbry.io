@@ -78,7 +78,7 @@
                         <input type="hidden" name="status_token" id="status_token" value="<?php echo $token?>"/>
                     </div>
                   <?php
-                  if ($error_message): echo "<div>" . "The following error occurred: ". $error_message  . " For support please send an email to hello@lbry.io" . "</div>";
+                  if ($error_message): echo View::render('acquisition/_youtube_error', ['error_message' => $error_message, 'email' => $statusData['email']]);
                   endif;?>
                     <div class="block">
                         <label for="channel-name">LBRY Channel ID</label>
