@@ -131,7 +131,7 @@ a:hover img
 .btn-primary, .btn-alt, .btn-link
 {
   cursor: pointer;
-  display: inline-block;
+  display: inherit;
   height: $spacing-vertical * 1.5;
   line-height: $spacing-vertical * 1.5;
   padding: 0 15px;
