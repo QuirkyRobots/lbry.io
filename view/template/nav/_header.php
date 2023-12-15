@@ -149,8 +149,8 @@
           <drawer-wrap>
             <drawer-children>
                 <drawer-child>
-                    <a href="https://lbry.tech">
-                        <strong>LBRY.tech</strong>
+                    <a href="github.dev/lbryio">
+                        <strong>LBRY Dev</strong>
                         <span>Find a technical overview, specification, APIs, and more</span>
                     </a>
                 </drawer-child>
@@ -164,7 +164,7 @@
 
 
             <drawer-child>
-              <a href="https://lbry.tech/spec">
+              <a href="https://github.dev/lbryio">
                 <strong>The Spec</strong>
                 <span>Read a formal technical description of how LBRY works</span>
               </a>
@@ -178,7 +178,7 @@
               </drawer-child>
 
               <drawer-child>
-                <a href="https://lbry.tech/contribute">
+                <a href="https://github.dev/lbryio">
                   <strong>Contributor's Guide</strong>
                   <span>Become a contributor to the LBRY project</span>
                 </a>

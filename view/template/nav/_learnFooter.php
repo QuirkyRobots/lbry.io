@@ -24,7 +24,7 @@
           <li>Explore our <a href="https://shop.lbry.com" class="link-primary"><span class="btn-label">LBRY Shop</span><span class="icon-fw icon-shopping-cart"></span></a>
        <a href="https://lbry.fund/" class="link-primary"><span class="btn-label">LBRY Community Fund</span><span class="fas fa-hand-holding-usd icon-fw"></span></a>
        <a href="/3d-printing" class="link-primary"><span class="btn-label">3D Printing Program</span><span class="icon-fw icon-cube"></span></a>
-       <a href="https://lbry.tech" class="link-primary"><span class="btn-label">LBRY Technical Resources</span><span class="icon-fw icon-gear"></span></a>
+       <a href="https://github.dev/lbryio" class="link-primary"><span class="btn-label">LBRY Technical Resources</span><span class="icon-fw icon-gear"></span></a>
              </ul>
       </div>
       <div class="span6">

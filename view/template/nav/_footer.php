@@ -6,7 +6,6 @@
       <li><a href="/news" title="The latest news from LBRY HQ">Blog</a></li>
       <li class="hiring"><a href="/join-us" title="Our team is always looking for awesome folks to learn from">Jobs</a></li>
       <!-- <li><a href="/roadmap" title="Where are we going? Good thing we have a map!">Roadmap</a></li> -->
-      <li><a href="https://shop.lbry.com" title="LBRY swag for purchase">Shop</a></li>
       <li><a href="/team" title="The people who bring LBRY to YOU">Team</a></li>
     </ul>
 

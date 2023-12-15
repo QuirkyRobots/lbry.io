@@ -51,9 +51,9 @@
   <section class="home__sites">
     <div class="inner-wrap">
       <aside class="home__site home__site--tech">
-        <h3>LBRY.tech</h3>
+        <h3>LBRY Development</h3>
         <p>Do you have ideas for new features? Do you want to play around with the code for LBRY?</p>
-        <a href="https://lbry.tech" class="button button--inverse">Come play at LBRY.tech</a>
+        <a href="https://github.dev/lbryio" class="button button--inverse">Come play at github.dev/lbryio</a>
       </aside>
 
       <aside class="home__site home__site--org">
