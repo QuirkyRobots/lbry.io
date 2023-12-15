@@ -37,7 +37,7 @@
       <div class="text-center meta spacer1">
         <img src="/img/lbry-ui.png"/>
         <div class="content-inset">
-          A user searches and prepares to stream and the film <em>It’s a Wonderful Life</em>, located at <a href="lbry://wonderfullife">lbry://wonderfullife</a>, via a completely decentralized network. Try it out for yourself at <a href="/get">lbry.io/get</a>.
+          A user searches and prepares to stream and the film <em>It’s a Wonderful Life</em>, located at <a href="lbry://wonderfullife">lbry://wonderfullife</a>, via a completely decentralized network. Try it out for yourself at <a href="/get">lbry.com/get</a>.
         </div>
       </div>
 
@@ -225,7 +225,7 @@
 
       <p>If LBRY succeeds, we will enter a world that is even more creative, connected, and conservatory. We will waste less and we make more. We will create a world where a teenager in Kenya and a reality star in Los Angeles use the same tool to search the same network and have access to the same results -- a world where information, knowledge, and imagination know no borders. </p>
 
-      <p>Build our dream with us! Download LBRY at <a class="link-primary" href="/get">lbry.io/get</a>.</p>
+      <p>Build our dream with us! Download LBRY at <a class="link-primary" href="/get">lbry.com/get</a>.</p>
     </section>
   </div>
   <?php echo View::render('nav/_learnFooter') ?>

@@ -3,7 +3,7 @@
 <p>So far, everything we've done with LBRY has been free. However, some actions, such as reserving a name or purchasing paid content, require credits.</p>
 <p>
   There are several ways to obtain credits. See <a href="/faq/earn-credits" class="link-primary">this page</a> for options. We also reward
-  testers and contributors, so <a href="http://chat.lbry.io" class="link-primary">join our Discord Chat</a> if you'd like to help.
+  testers and contributors, so <a href="http://chat.lbry.com" class="link-primary">join our Discord Chat</a> if you'd like to help.
 </p>
 
 <p>To receive credits, you will need to generate a wallet address:</p>
@@ -69,7 +69,7 @@
   <a class="link-primary" href="/api">View the full API documentation</a>.
 </p>
 <p>
-  <a href="http://chat.lbry.io" class="link-primary">Join our Discord chat</a> to interact with LBRY developers and other community members. Please visit the #dev room (note: this is not a default channel).
+  <a href="http://chat.lbry.com" class="link-primary">Join our Discord chat</a> to interact with LBRY developers and other community members. Please visit the #dev room (note: this is not a default channel).
 </p>
 <p>
   Visit our <a href="https://github.com/lbryio" class="link-primary">GitHub page</a> to view the source code or report issues.

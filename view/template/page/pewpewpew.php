@@ -13,7 +13,7 @@
 
 <p>And to those who think they can restrict our free speech? Molṑn labé.</p>
 
-<p>You can <a href="/get?src=FA">download the LBRY app here.</a> If you have any questions or need help, <a href="http://chat.lbry.io">join our Discord community.</a></p>
+<p>You can <a href="/get?src=FA">download the LBRY app here.</a> If you have any questions or need help, <a href="http://chat.lbry.com">join our Discord community.</a></p>
 <div class="text-center"><a href="/get?src=FA" class="btn-primary btn-large">Get LBRY App</a></div>      
     </div>
   </div>

@@ -17,6 +17,6 @@ or via cli command
 
     lbrynet-cli settings_set --peer_port 3334
 
-Another way to change the port permanently is to append the below line to the `daemon_settings.yml` in the `lbrynet` [directory](https://lbry.io/faq/lbry-directories). If it doesn't exist, create a new file named `daemon_settings.yml` and append:
+Another way to change the port permanently is to append the below line to the `daemon_settings.yml` in the `lbrynet` [directory](https://lbry.com/faq/lbry-directories). If it doesn't exist, create a new file named `daemon_settings.yml` and append:
 
     peer_port: 3334

@@ -84,7 +84,7 @@
         </p>
         <h3 id="protocol-engineer">Protocol Engineers <span class="badge badge-info">Paused</span></h3>
         <p>
-          The LBRY protocol consists of a <a href="https://lbry.io/api">set of APIs</a> provided via a daemon. This daemon is comprised of several sub-components, and interacts with the blockchain, wallet, and other remote daemons that constitute the LBRY data network.
+          The LBRY protocol consists of a <a href="https://lbry.com/api">set of APIs</a> provided via a daemon. This daemon is comprised of several sub-components, and interacts with the blockchain, wallet, and other remote daemons that constitute the LBRY data network.
         </p>
         <p>
           The LBRY <a href="https://github.com/lbryio/lbry">daemon</a> and <a href="https://github.com/lbryio/lbryum">wallet</a> are both written in Python, but maybe you're the one to rewrite them in Go (we're kidding) (probably).
@@ -93,7 +93,7 @@
 
         <h3 id="web-developer">Web Developer <span class="badge badge-info">Paused</span></h3>
         <p>
-          We're seeking someone to manage <a href="https://github.com/lbryio/lbry.io">this very website</a>, as well as other LBRY web properties and projects.
+          We're seeking someone to manage <a href="https://github.com/lbryio/lbry.com">this very website</a>, as well as other LBRY web properties and projects.
         </p>
         <p>
           This position involves both design and programming elements and is good for someone with a mix of creativity and logic.
@@ -103,7 +103,7 @@
       <h2 id="applying">Applying</h2>
       <h4 id="how-to-apply">How To Apply</h4>
       <p>
-        Contact <a href="mailto:joinus@lbry.io">joinus@lbry.io</a> if interested in a position. Please include the following:
+        Contact <a href="mailto:joinus@lbry.com">joinus@lbry.com</a> if interested in a position. Please include the following:
       </p>
       <ol>
         <li>A resume, LinkedIn profile, or other resource that would serve as a work history.</li>
@@ -144,9 +144,9 @@
                 <td><a href="https://github.com/lbryio/lbrycrd/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">good first issues</a></td>
               </tr>
               <tr>
-                <td><a href="https://github.com/lbryio/lbry.io">lbry.io</a></td>
+                <td><a href="https://github.com/lbryio/lbry.com">lbry.com</a></td>
                 <td>Web Developer</td>
-                <td><a href="https://github.com/lbryio/lbry.io/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">good first issues</a></td>
+                <td><a href="https://github.com/lbryio/lbry.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">good first issues</a></td>
               </tr>
             </tbody>
           </table>
@@ -157,7 +157,7 @@
             The issue you choose does not necessarily need to be fully completed, and we don't expect a perfect first contribution. Open a pull request as soon as you'd like any feedback from one of our developers. We compensate at or above market rates for all accepted pull requests.
           </p>
           <p>
-            For questions or problems with a particular issue, please comment directly on the GitHub issue. For setup or environment trouble, open a separate issue. You can also join #dev in <a href="https://chat.lbry.io">our chat</a> to interact with other community members.
+            For questions or problems with a particular issue, please comment directly on the GitHub issue. For setup or environment trouble, open a separate issue. You can also join #dev in <a href="https://chat.lbry.com">our chat</a> to interact with other community members.
           </p>
         </li>
         <li>
@@ -175,7 +175,7 @@
       <h2 id="other-work">Other Work</h2>
       <p>
         Interested in contributing but not ready for commitment? We have a <a href="/faq/contributing">guide for contributors</a> to help you find other ways to get
-        involved. If none of that suits your fancy, join our <a href="https://chat.lbry.io">Discord chat</a> and we'll help you find something you'll love.
+        involved. If none of that suits your fancy, join our <a href="https://chat.lbry.com">Discord chat</a> and we'll help you find something you'll love.
       </p>
 
     </div>

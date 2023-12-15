@@ -6,7 +6,7 @@ The LBRY application relies on blockchain technology and the LBRY Credits (LBC) 
 
 ## How do I find my wallet?
 
-The easiest way to find the location of your LBRY wallet is via the [LBRY app](https://lbry.io/get).  Open LBRY and then go to your wallet (bank icon in the top right of the screen). In the Balance section, you will see a link for `Backup`, click this. If this link is grayed out, it usually means you don't have any credits (see section below on how to manually find the wallet). 
+The easiest way to find the location of your LBRY wallet is via the [LBRY app](https://lbry.com/get).  Open LBRY and then go to your wallet (bank icon in the top right of the screen). In the Balance section, you will see a link for `Backup`, click this. If this link is grayed out, it usually means you don't have any credits (see section below on how to manually find the wallet). 
 
 When you click `Backup`, you will be shown the location of your `lbryum` directory that contains the wallet file.  Navigate to this directory via your file explorer to locate your wallet. You can either choose to backup this whole directory, the wallets directory inside it or the `default_wallet` file itself inside the wallets directory. 
 
@@ -18,7 +18,7 @@ We will continue to make this process easier for users in the future through the
 
 ## How do I find my wallet if I don't have LBRY open? 
 
-The LBRY wallet can be found manually by navigating to the [lbryum directory](https://lbry.io/faq/lbry-directories). The `default_wallet` file is inside the wallets folder. 
+The LBRY wallet can be found manually by navigating to the [lbryum directory](https://lbry.com/faq/lbry-directories). The `default_wallet` file is inside the wallets folder. 
 
 ## How do I restore my wallet?
 
@@ -26,4 +26,4 @@ The process of restoring a previously backed up wallet is fairly simple. After i
 
 ## I need help with backup or recovery, who can I reach out to?
 
-We are always here to help - check out our [help page](https://lbry.io/faq/support) on how to reach us. 
+We are always here to help - check out our [help page](https://lbry.com/faq/support) on how to reach us. 

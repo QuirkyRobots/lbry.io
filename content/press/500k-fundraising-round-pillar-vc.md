@@ -22,6 +22,6 @@ LBRY is a content-sharing and publishing platform that is decentralized and cont
 Pillar invests in exceptional entrepreneurs pursuing transformative technologies that leverage machine intelligence. Founded in 2016, the firm partners with entrepreneurs by providing access to critical resources companies need to scale, including enterprise relationships, PR/marketing, talent and leadership development. Pillar is headquartered in Boston. For more information, please visit [www.pillar.vc](http://pillar.vc/). 
 
 **Contact:**
-Mike Vine, Evangelist, [mike@lbry.io](mailto:mike@lbry.io), 888-723-7679
+Mike Vine, Evangelist, [mike@lbry.com](mailto:mike@lbry.com), 888-723-7679
 
-**Press Kit:** [http://www.lbry.io/press-kit](http://www.lbry.io/press-kit)
+**Press Kit:** [http://www.lbry.com/press-kit](http://www.lbry.com/press-kit)

@@ -4,11 +4,11 @@ category: publisher
 order: 1
 ---
 
-LBRY is a free, open, and community-driven digital marketplace which enables content sharing, monetization, discovery and consumption. Publishing in LBRY is the process by which you share your content on the network - you set the price per view (can be free too) which is paid directly to you. This process involves making a "claim" in the LBRY Blockchain which will be used to retrieve the content via a URL. Content can either be published anonymously or to a particular channel/identity which will group content together at a single location. Both channels and claims require a deposit(bid) of LBRY Credits (LBC) in order to reserve their location on the LBRY network. This deposit will be deducted from your balance as long as the claim is active. See our [naming](https://lbry.io/faq/naming) and [transaction](https://lbry.io/faq/transaction-types) documentation for more information about claims, bids and transactions. 
+LBRY is a free, open, and community-driven digital marketplace which enables content sharing, monetization, discovery and consumption. Publishing in LBRY is the process by which you share your content on the network - you set the price per view (can be free too) which is paid directly to you. This process involves making a "claim" in the LBRY Blockchain which will be used to retrieve the content via a URL. Content can either be published anonymously or to a particular channel/identity which will group content together at a single location. Both channels and claims require a deposit(bid) of LBRY Credits (LBC) in order to reserve their location on the LBRY network. This deposit will be deducted from your balance as long as the claim is active. See our [naming](https://lbry.com/faq/naming) and [transaction](https://lbry.com/faq/transaction-types) documentation for more information about claims, bids and transactions. 
 
-Want to get your content featured on the Discover page? Check out [Community top bids](https://lbry.io/faq/community-top-bid).
+Want to get your content featured on the Discover page? Check out [Community top bids](https://lbry.com/faq/community-top-bid).
 
-If you don't have LBRY yet, download it [here](https://lbry.io/get).
+If you don't have LBRY yet, download it [here](https://lbry.com/get).
 
 ### How do I create a Channel?
 
@@ -16,10 +16,10 @@ If you don't have LBRY yet, download it [here](https://lbry.io/get).
 2. Once the application loads, click the `Publish` button in the top right of the screen.
 ![Click the Publish Button](https://spee.ch/de822faa6cda4989f68ec66abe5254bdd1ad031b/1111.jpeg)
 
-3. In the `Channel Name` section click the dropdown and select `New Channel` and  declare the name you would like for your channel. For more details on different channel types, see our write up on [naming](https://lbry.io/faq/naming).
+3. In the `Channel Name` section click the dropdown and select `New Channel` and  declare the name you would like for your channel. For more details on different channel types, see our write up on [naming](https://lbry.com/faq/naming).
 ![Click the New Channel Dropdown](https://spee.ch/eb37ca6c6ea9d795bf2fc2a124f52b0084453c40/2222.jpeg)
 
-4. Once your name is selected, there is a `Deposit` section that is below. It requires a minimum bid of 0.0001 LBC (see more on deposits [here](https://lbry.io/faq/naming)). Please ensure that you have enough LBRY credits in your wallet to cover the bid amount.  There is also a small network fee associated with the creation of a channel. 
+4. Once your name is selected, there is a `Deposit` section that is below. It requires a minimum bid of 0.0001 LBC (see more on deposits [here](https://lbry.com/faq/naming)). Please ensure that you have enough LBRY credits in your wallet to cover the bid amount.  There is also a small network fee associated with the creation of a channel. 
 ![Set the Deposit](https://spee.ch/31612026416cf1ea2c4b433aaa9835cd939a28be/3333.jpeg)
 
 5. Click `Create Channel` once you have entered your bid amount. You now own `lbry://@channelnameyoubidon#Claim_ID` and `lbry://@channelnameyoubidon` (the vanity name without a claim id) if you are the highest bidder.
@@ -48,7 +48,7 @@ If you don't have LBRY yet, download it [here](https://lbry.io/get).
 6. You have an option to select/create the channel you would like to publish the channel under. If one isn't selected, it will be posted anonymously.
 ![Select Channel](https://spee.ch/d0c7fe044b0237017f0f5af00f79e3880aae201d/Publishing006.png)
 
-7. Type in the URL you want the content to be found under along with a minimum of 0.0001 LBC deposit for the upload (current limit, may change in future). If you are trying to outbid a user friendly/common URL, the system will suggest a minimum bid to take over the content at that vanity URL. There may be a delay for this takeover, check out the `#content` channel on our [Discord chat](https://chat.lbry.io) to see this information (search for your URL). For more details regarding the URL or bid, check out our [naming document](https://lbry.io/faq/naming).
+7. Type in the URL you want the content to be found under along with a minimum of 0.0001 LBC deposit for the upload (current limit, may change in future). If you are trying to outbid a user friendly/common URL, the system will suggest a minimum bid to take over the content at that vanity URL. There may be a delay for this takeover, check out the `#content` channel on our [Discord chat](https://chat.lbry.com) to see this information (search for your URL). For more details regarding the URL or bid, check out our [naming document](https://lbry.com/faq/naming).
 
 8. Read and agree to the terms of service.
 9. Click `Publish`.
@@ -87,11 +87,11 @@ or
 
 ### Can someone tip me for my content? 
 
-Yes, check out LBRY how tipping in LBRY works by going [here](https://lbry.io/faq/tipping).
+Yes, check out LBRY how tipping in LBRY works by going [here](https://lbry.com/faq/tipping).
 
 ### Can I increase my bid amount?
 
-Yes, this is possible by sending [tips](https://lbry.io/faq/tipping) as a support (additional bids) for your own claim. Since the claim is yours, you can withdraw the tips at your convenience.  To increase your bid, go to the desired claim and click the `Support` option, enter an amount of LBC to add to the claim, and click `Send`. 
+Yes, this is possible by sending [tips](https://lbry.com/faq/tipping) as a support (additional bids) for your own claim. Since the claim is yours, you can withdraw the tips at your convenience.  To increase your bid, go to the desired claim and click the `Support` option, enter an amount of LBC to add to the claim, and click `Send`. 
 
 ### How can I tell if someone is downloading my content?
 
@@ -103,15 +103,15 @@ The in-app video player's streaming capabilities are limited to MP4 files which 
 
 ### I shared my URL, but others can't download it. What's up? 
 
-Since LBRY uses a Peer to Peer network, it may require that your PC is accessible through the internet. LBRY also runs servers to assist in content hosting, but this process may fail if your PC cannot send it to us. By default, the sharing port is set to 3333. If your network is properly configured and LBRY is running, a port status check on 3333 should pass on this [port checking tool](https://www.canyouseeme.org). If it fails, you can check if UPNP is enabled on your router or forward port 3333 manually. If you need assistance, check out the [help page](https://lbry.io/faq/how-to-report-bugs) on how to reach us.
+Since LBRY uses a Peer to Peer network, it may require that your PC is accessible through the internet. LBRY also runs servers to assist in content hosting, but this process may fail if your PC cannot send it to us. By default, the sharing port is set to 3333. If your network is properly configured and LBRY is running, a port status check on 3333 should pass on this [port checking tool](https://www.canyouseeme.org). If it fails, you can check if UPNP is enabled on your router or forward port 3333 manually. If you need assistance, check out the [help page](https://lbry.com/faq/how-to-report-bugs) on how to reach us.
 
 ### Where is my Channel and content saved locally?
 
-Channels and content claims are saved to your LBRY Wallet along with your LBRY Credits. When creating new channels or content, it's a good practice to [backup your wallet](https://lbry.io/faq/how-to-backup-wallet) afterwards. 
+Channels and content claims are saved to your LBRY Wallet along with your LBRY Credits. When creating new channels or content, it's a good practice to [backup your wallet](https://lbry.com/faq/how-to-backup-wallet) afterwards. 
 
 ### How and where can I share my content?
 
-LBRY URLs can be shared to anyone, but they will require the LBRY app in order to view the content. If the content is free and public, it can be retrieved through [spee.ch](https://www.spee.ch) by going to https://spee.ch/<claimname> or https://spee.ch/<@channelname>. You can also share the content on our `#publishers` channel on [Discord](https://chat.lbry.io) where we have a vibrant community with thousands of users. 
+LBRY URLs can be shared to anyone, but they will require the LBRY app in order to view the content. If the content is free and public, it can be retrieved through [spee.ch](https://www.spee.ch) by going to https://spee.ch/<claimname> or https://spee.ch/<@channelname>. You can also share the content on our `#publishers` channel on [Discord](https://chat.lbry.com) where we have a vibrant community with thousands of users. 
 
 ### I'm an advanced user, is there more I can poke around with? 
 
@@ -119,4 +119,4 @@ Advanced users can check out the [API/CLI](https://lbryio.github.io/lbry/) docum
 
 ### I'm confused and need some assistance, can you help?
 
-Of course, we are always here to help! Check out our [help page](https://lbry.io/faq/how-to-report-bugs) on how to reach us. 
+Of course, we are always here to help! Check out our [help page](https://lbry.com/faq/how-to-report-bugs) on how to reach us. 

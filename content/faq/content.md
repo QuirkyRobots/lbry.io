@@ -19,7 +19,7 @@ LBRY Inc., makes no guarantee your content will be hosted on the network. The pe
 
 ###Someone uploaded my content to LBRY without permission. How do I remove it?
 
-Reporting infringing/illegal content in the LBRY App is easy. You can [file a report here](https://lbry.io/dmca) or within the LBRY app. 
+Reporting infringing/illegal content in the LBRY App is easy. You can [file a report here](https://lbry.com/dmca) or within the LBRY app. 
 
 Open the LBRY App and navigate to the content you wish to report. Underneath the content are two buttons: "Download," and "Report." When you click on the Report button, you will be redirected to a web form to report the content to LBRY, Inc., who can remove the content link from the LBRY App. 
 

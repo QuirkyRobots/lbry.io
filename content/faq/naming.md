@@ -10,7 +10,7 @@ Before talking about how names (URLs) in LBRY work, it's important to understand
 
 Names exist so that we can map a human readable and understandable word or term to a more difficult to remember number or ID. In the traditional domain system, names map to numerical IP addresses. In LBRY, names map to a unique, permanent ID representing a piece of digital content and/or a publisher identity.
 
-Designing a naming system that works well and fairly assigns names is quite hard! Consider the domain system you are likely using to access this document. Notice that you are reading this page on lbry.io, rather than lbry.com. Is this because lbry.com is providing some productive service? No! It is because a squatter holds it, simply looking to extort money from those who would do something useful or creative.
+Designing a naming system that works well and fairly assigns names is quite hard! Consider the domain system you are likely using to access this document. Notice that you are reading this page on lbry.com, rather than lbry.com. Is this because lbry.com is providing some productive service? No! It is because a squatter holds it, simply looking to extort money from those who would do something useful or creative.
 
 The traditional system has several other flaws. It is centralized and a mechanism of censorship, as holders do not have true ownership of their domain, only the top-level provider. Top-level domains (like .io) are also arbitrary and largely illogical (if designing the domain system again, would we really want to add an arbitrary ".com" to the most prestigious URL for a given keyword? does LBRY have anything to do with the *I*ndian *O*cean?). Finally, in addition to incentivizing bad behavior, the flat-fee structure of domains prevents good behavior from those who are priced out.
 
@@ -54,7 +54,7 @@ LBRY supports several types of URL resolution:
 
 4. **Names are more like search terms.** When a user searches the LBRY network, or a recommendation engine suggests content, all valid claims are considered. Not having the community URL for your content does not mean no one will see it. Many different pieces of content under the same name can be displayed when users look for content on the network.
 
-For more details on claims, please see https://lbry.io/faq/claimtrie-implementation
+For more details on claims, please see https://lbry.com/faq/claimtrie-implementation
 
 ### Experimentation
 

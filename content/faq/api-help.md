@@ -5,9 +5,9 @@ category: developer
 
 ## The LBRY API
 
-The best way to learn how to use the LBRY API is to go through our [quickstart](https://lbry.io/quickstart).
+The best way to learn how to use the LBRY API is to go through our [quickstart](https://lbry.com/quickstart).
 
-A full list of API calls provided by LBRY is available in [the API documentation](https://lbry.io/api).
+A full list of API calls provided by LBRY is available in [the API documentation](https://lbry.com/api).
 
 If you're new to LBRY, this is probably the API you want.
 
@@ -31,4 +31,4 @@ documented [here](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_l
 - `9245` is the default port used, but if you chose a custom port for the server, you'll need to use that instead.
 - If the command accepts parameters, they can be passed inside the `params` array.
 
-See Also: [important directories](https://lbry.io/faq/lbry-directories).
+See Also: [important directories](https://lbry.com/faq/lbry-directories).

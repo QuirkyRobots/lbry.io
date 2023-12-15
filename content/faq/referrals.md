@@ -21,13 +21,13 @@ You will not receive rewards for each referral until those users join and use LB
 
 ### What is the criteria for a claimable referral?
 
-A claimable referral has the same definition as a Rewards eligible or Verified LBRY user. This means the referred user must have logged into the LBRY app and verified their account.  Users who redeemed rewards prior to the LBRY Open Beta (on 8/1/2017) were automatically grandfathered as verified users. Post LBRY Open Beta verification options can be seen [here](https://lbry.io/faq/identity-requirements). 
+A claimable referral has the same definition as a Rewards eligible or Verified LBRY user. This means the referred user must have logged into the LBRY app and verified their account.  Users who redeemed rewards prior to the LBRY Open Beta (on 8/1/2017) were automatically grandfathered as verified users. Post LBRY Open Beta verification options can be seen [here](https://lbry.com/faq/identity-requirements). 
 
-LBRY users who abuse either the Referral or Rewards system will not be eligible for referral redemption. If you have specific questions about individual referrals which are not claimable, please reach out to the [helpdesk](mailto:help@lbry.io) with details. 
+LBRY users who abuse either the Referral or Rewards system will not be eligible for referral redemption. If you have specific questions about individual referrals which are not claimable, please reach out to the [helpdesk](mailto:help@lbry.com) with details. 
 
 ### Is there a limit to the credits I can earn?
 
-If you expect to refer more than 50-100 people, please discuss it with us on [Discord chat](http://chat.lbry.io) or email [us](mailto:josh@lbry.io).
+If you expect to refer more than 50-100 people, please discuss it with us on [Discord chat](http://chat.lbry.com) or email [us](mailto:josh@lbry.com).
 
 Currently during the referral reward testing phase, there is a limit of 1 redemption per account.
 
@@ -35,4 +35,4 @@ Currently during the referral reward testing phase, there is a limit of 1 redemp
 
 If you want to waste your time to receive no reward, be our guest. We will be monitoring the system closely and going to significant lengths to only let legitimate users in.
 
-Rather than spending the time attempting to cheat and failing, we suggest you do productive work to earn LBRY credits. Join our [Discord chat](http://chat.lbry.io) and message Josh (@finer9) or Jeremy (@kauffj) for opportunities.
+Rather than spending the time attempting to cheat and failing, we suggest you do productive work to earn LBRY credits. Join our [Discord chat](http://chat.lbry.com) and message Josh (@finer9) or Jeremy (@kauffj) for opportunities.

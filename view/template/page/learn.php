@@ -31,7 +31,7 @@
           (<a href="/faq/what-is-lbry" class="link-primary">What is LBRY?</a>)
         </div>
         <div class="spacer1">
-          <a href="http://explorer.lbry.io" class="link-primary">Blockchain Explorer</a>
+          <a href="http://explorer.lbry.com" class="link-primary">Blockchain Explorer</a>
         </div>
         <div class="spacer1">
           <a href="/team" class="link-primary">About the Team</a>

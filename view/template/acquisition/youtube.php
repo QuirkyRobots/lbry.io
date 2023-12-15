@@ -43,7 +43,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
 
     <div class="content">
       <?php
-      if ($error_message): echo "<div>" . "The following error occurred: ". $error_message  . " For support please send an email to hello@lbry.io" . "</div>";
+      if ($error_message): echo "<div>" . "The following error occurred: ". $error_message  . " For support please send an email to hello@lbry.com" . "</div>";
       endif;?>
       <div class="zigzag"></div>
       <h1>Create on a stable platform. For real this time.</h1>
@@ -138,7 +138,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
       <div class="zigzag"></div>
       <h1>Sync &amp; Earn</h1>
       <p>LBRY offers a single-click sync process<br>for existing YouTubers</p>
-        <form class="form" id="sync" method="post" action="http://api.lbry.io/yt/connect">
+        <form class="form" id="sync" method="post" action="http://api.lbry.com/yt/connect">
             <div class="form-inner">
               <div class="block">
                 <div class="center">
@@ -214,7 +214,7 @@ Response::setMetaDescription("Put your content on the blockchain, experience tru
         <div class="text">
           <h3>Reilly Smith</h3>
           <p>Head of Content</p>
-          <a href="mailto:reilly@lbry.io?subject=YouTube+Freedom">Contact</a>
+          <a href="mailto:reilly@lbry.com?subject=YouTube+Freedom">Contact</a>
         </div>
       </div>
     </div>

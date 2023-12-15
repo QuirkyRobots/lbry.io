@@ -5,7 +5,7 @@ category: wallet
 
 There are a number of transaction types which take place on the LBRY blockchain. The LBRY app displays these transactions in the **Overview** and **History** tabs of the Wallet page.
 
-Many transaction types also have details associated to them such as the claim/channel name or if they came from a LBRY Reward. You can also see additional details by clicking the transaction ID and accessing them in the [LBRY block explorer](https://explorer.lbry.io).
+Many transaction types also have details associated to them such as the claim/channel name or if they came from a LBRY Reward. You can also see additional details by clicking the transaction ID and accessing them in the [LBRY block explorer](https://explorer.lbry.com).
 
 | Type | Details |
 --- | --- 
