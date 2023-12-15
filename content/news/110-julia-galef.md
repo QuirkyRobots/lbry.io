@@ -24,4 +24,4 @@ lbry://@JuliaGalef
 
 LBRY: now with free thinking caps.
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Got wisdom and an audience? Email reilly@lbry.io to enlighten us all.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Got wisdom and an audience? Email reilly@lbry.com to enlighten us all.

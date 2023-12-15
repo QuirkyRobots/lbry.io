@@ -18,7 +18,7 @@ Feeling off the cuff and ready to splurge on some new coins with your recent bit
 
 Both Chris and Trevon were LBRY early adopters. It’s still pretty early; you oughta join ‘em.
 
-Sync your YouTube channel today with this handy tool: https://lbry.io/youtube
+Sync your YouTube channel today with this handy tool: https://lbry.com/youtube
 
 **Check out the LBRY film playlist**
 - [*Coherence*](lbry://coherence)
@@ -31,4 +31,4 @@ Sync your YouTube channel today with this handy tool: https://lbry.io/youtube
 - [*S&M Lawn Care*](lbry://smlawncare)
 - [*Cinema Six*](lbry://cinemasix)
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Email reilly@lbry.io to join.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Email reilly@lbry.com to join.

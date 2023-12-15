@@ -4,7 +4,7 @@ title: 'Adult Swim's Million Dollar Extreme Joins LBRY'
 date: '2016-08-11 00:06:18'
 cover: 'mde.jpg'
 ---
-[MillionDollarExtreme (MDE)](https://en.wikipedia.org/wiki/Million_Dollar_Extreme) is the first comedy series to become a [LBRY publishing partner](https://lbry.io/publish). MDE's classics are being added to LBRY, and you can start with:
+[MillionDollarExtreme (MDE)](https://en.wikipedia.org/wiki/Million_Dollar_Extreme) is the first comedy series to become a [LBRY publishing partner](https://lbry.com/publish). MDE's classics are being added to LBRY, and you can start with:
 
 - *[Sam Hyde’s 2070 Paradigm Shift](lbry://samhyde2070)* – The ultimate TEDx troll; an instant internet classic.
 - *[College Cunts](lbry://collegecunts)* – Practical and expertly vulgar advice for would-be college students. 
@@ -24,6 +24,6 @@ In fact, tomorrow night you can catch episode two of their brand new Adult Swim 
 - *[IDEAS Man](lbry://IDEASman)*
 - *[LA Street Fashion series](lbry://LAstreetFashion1)*
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Just can’t wait? If you’re a creator – filmmaker, musician, artist, writer – you can skip our waiting list line and earn $1,000 in LBRY Credits at the same time. [Learn more here](https://lbry.io/publish). 
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Just can’t wait? If you’re a creator – filmmaker, musician, artist, writer – you can skip our waiting list line and earn $1,000 in LBRY Credits at the same time. [Learn more here](https://lbry.com/publish). 
 
 

@@ -28,4 +28,4 @@ AnimalRobot spins all night, every night on LBRY:
 - *[Rap God: Eminem vs. Rick and Morty](lbry://rickandmortyrapgod)* – Rap God pt. 2
 - *[Straight Outta Compton: A Los Santos Story](lbry://gtasoc)* – Franklin and friends take to Los Santos with their own take on NWA’s legendary hit, Straight Outta Compton
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Just can’t wait? If you’re a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](https://lbry.io/publish).
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Just can’t wait? If you’re a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](https://lbry.com/publish).

@@ -16,7 +16,7 @@ On July 29th, 2017 the Pop-up Open Beta Was Announced.
 - [LBRY in 100 Seconds (Video)](https://www.youtube.com/watch?v=DjouYBEkQPY)
 - [How Does LBRY Work, Exactly?](https://lbry.com/news/introducing-lbry-the-bitcoin-of-content)
 - [Why Doesn't LBRY Just Use Bitcoin?](https://lbry.com/news/why-doesnt-lbry-just-use-bitcoin)
-- [More F.A.Q's](https://lbry.io/faq)
+- [More F.A.Q's](https://lbry.com/faq)
 
 ### Official Press Releases
 
@@ -33,9 +33,9 @@ On July 29th, 2017 the Pop-up Open Beta Was Announced.
 
 ### Contact & Social Media
 
-- Web: [https://lbry.io/](https://lbry.io/)
+- Web: [https://lbry.com/](https://lbry.com/)
 - Facebook: [https://www.facebook.com/lbryio](https://www.facebook.com/lbryio)
 - Twitter: [https://twitter.com/lbryio](https://x.com/lbryio)
 - Reddit: [https://www.reddit.com/r/lbry](https://www.reddit.com/r/lbry)
-- Mailing List: [https://lbry.io/join-list](https://lbry.com/join-list) - **Sign up to follow along as we build LBRY**
-- Discord Chat: [https://chat.lbry.io](https://chat.lbry.com) - **Get your questions answered and become a LBRYian**
+- Mailing List: [https://lbry.com/join-list](https://lbry.com/join-list) - **Sign up to follow along as we build LBRY**
+- Discord Chat: [https://chat.lbry.com](https://chat.lbry.com) - **Get your questions answered and become a LBRYian**

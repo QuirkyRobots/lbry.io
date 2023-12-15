@@ -16,4 +16,4 @@ You can [stream the original](lbry://nightofthelivingdead) today at: lbry://nigh
 
 If you’re looking for a real treat this Halloween season, the [MoMA in New York announced the premiere](http://www.ew.com/article/2016/10/19/night-living-dead-4k-restoration-world-premiere-moma) of a new 4K restoration of this influential masterpiece.
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Know some great public domain content to share? Have high quality scans? Email reilly@lbry.io for a trip to the front of the line.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Know some great public domain content to share? Have high quality scans? Email reilly@lbry.com for a trip to the front of the line.

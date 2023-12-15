@@ -3,7 +3,7 @@ author: samuel-lbryian
 title: 'LBRY Launch A Disaster'
 date: '2016-07-20 00:06:18'
 ---
-Thanks to our intrepid Content Curator, [Reilly Smith](https://lbry.io/team), LBRY’s beta release was a disaster.
+Thanks to our intrepid Content Curator, [Reilly Smith](https://lbry.com/team), LBRY’s beta release was a disaster.
 
 What I mean to say is we unleashed a disaster. 
 
@@ -23,7 +23,7 @@ The film stars David Cross (*Arrested Development, Mr. Show*), Julia Stiles (*Th
 
 This is the first film for LBRY users from [Oscilloscope Laboratories](http://www.oscilloscope.net/films/), one of the most respected indie film distribution companies in Hollywood. Oscilloscope was founded by the late Beastie Boy, Adam Yauch, aka MCA.
 
-Oscilloscope showed its penchant for forward-thinking by becoming one of the featured content partners for [our July 4 launch.](https://lbry.io/news/beta-live-declare-independence-big-media) We’re excited about the possibility of adding additional O-scope films to LBRY down the road.
+Oscilloscope showed its penchant for forward-thinking by becoming one of the featured content partners for [our July 4 launch.](https://lbry.com/news/beta-live-declare-independence-big-media) We’re excited about the possibility of adding additional O-scope films to LBRY down the road.
 
 Reilly said he hoped exposing users to Oscilloscope Labs would “lead viewers down a rabbit hole of new discoveries.” He said:
 

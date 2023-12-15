@@ -4,7 +4,7 @@ title: 'Coinslaught'
 date: '2017-05-25 00:20:30'
 cover: 'epicenter-banner.png'
 ---
-The crypto scene is young. And with youth comes a dearth of quality shows to watch. We’ve already [been graced](https://lbry.io/news/cryptoverse) by a [few](https://lbry.io/news/crypt0) of the greats on LBRY.
+The crypto scene is young. And with youth comes a dearth of quality shows to watch. We’ve already [been graced](https://lbry.com/news/cryptoverse) by a [few](https://lbry.com/news/crypt0) of the greats on LBRY.
 
 But today’s show takes the cake.
 
@@ -18,4 +18,4 @@ Founders, engineers, venture capitalists, and academics from Fred Ersham, Roger 
 
 There *is* one person they haven’t interviewed yet, but the name is escaping me...
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Wanna drop some crypto knowledge? Email reilly@lbry.io to make us all crypto rich.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Wanna drop some crypto knowledge? Email reilly@lbry.com to make us all crypto rich.

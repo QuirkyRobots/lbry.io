@@ -195,7 +195,7 @@ class Controller
 //    The following redirects require regEx's to work. I am unsure how these would work in this function.
 
 //    '/news/news'                          => '/news',
-//    'https://lbry.io/chat'                => 'https://chat.lbry.io',
+//    'https://lbry.com/chat'                => 'https://chat.lbry.io',
 //    '/slack'                              => 'https://chat.lbry.io',      
 //    '/participate'                        => 'https://chat.lbry.io',
 //    '/feedback'                           => 'https://chat.lbry.io',          

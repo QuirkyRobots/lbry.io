@@ -26,4 +26,4 @@ These are true gems in the hall of film history. Check out the first nine episod
 - [*Volcano*](lbry://superman1940-e8)
 - [*Terror on the Midway*](lbry://superman1940-e9)
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Know some great public domain content to share? Have high quality scans? Email reilly@lbry.io for a trip to the front of the line.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Know some great public domain content to share? Have high quality scans? Email reilly@lbry.com for a trip to the front of the line.

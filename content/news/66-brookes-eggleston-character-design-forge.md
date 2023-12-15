@@ -22,4 +22,4 @@ Once you’ve covered the basics, check out the rest of the courses:
 - *[5 Ways to Make a Character More Likable](lbry://likeablecharacters)* – The appeal of a character is essential in getting an audience to like them. Use these tips to keep them in your corner.
 
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Just can’t wait? If you’re a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](https://lbry.io/publish).
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Just can’t wait? If you’re a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](https://lbry.com/publish).

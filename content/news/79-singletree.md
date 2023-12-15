@@ -4,7 +4,7 @@ title: 'Crudely Satisfying'
 date: '2016-11-03 00:06:00'
 cover: 'singletree.png'
 ---
-Last week, [one feature film](https://lbry.io/news/bellflower-movie). This week 100% more.
+Last week, [one feature film](https://lbry.com/news/bellflower-movie). This week 100% more.
 
 It's a classic indie comedy double feature that’s actually funny. If you haven’t discovered these flicks before, you’re in for a treat.
 
@@ -24,6 +24,6 @@ It won the Special Jury Prize in 2010 at the legendary Friar’s Club in New Yor
 
 **About Singletree Productions**
 
-Singletree was the original creative outlet of writer-director Mark Potts. He also writes for another [LBRY Creator’s Club member HeckBender](https://lbry.io/news/heckbender-charney-on-lbry), wins [Pulitzer Prizes at the LA Times](http://www.latimes.com/local/california/la-me-2016-pultizer-20160418-snap-htmlstory.html), and loves pug son, [Gizmo](http://uproxx.com/filmdrunk/behind-the-viral-image-pug-man-tells-the-story-behind-his-high-level-dog-troll/).
+Singletree was the original creative outlet of writer-director Mark Potts. He also writes for another [LBRY Creator’s Club member HeckBender](https://lbry.com/news/heckbender-charney-on-lbry), wins [Pulitzer Prizes at the LA Times](http://www.latimes.com/local/california/la-me-2016-pultizer-20160418-snap-htmlstory.html), and loves pug son, [Gizmo](http://uproxx.com/filmdrunk/behind-the-viral-image-pug-man-tells-the-story-behind-his-high-level-dog-troll/).
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Do you make great movies? Email reilly@lbry.io for some red carpet treatment, LBRY style.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Do you make great movies? Email reilly@lbry.com for some red carpet treatment, LBRY style.

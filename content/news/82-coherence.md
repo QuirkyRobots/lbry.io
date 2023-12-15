@@ -30,4 +30,4 @@ On top of that, we're putting all Oscilloscope titles (and then some) on sale fr
 **About Oscilloscope Laboratories**
 Oscilloscope has released academy award nominated films such as [*Embrace of the Serpent*](https://www.rottentomatoes.com/m/embrace_of_the_serpent/) and Banksy’s documentary [*Exit Through the Gift Shop*](https://www.rottentomatoes.com/m/exit_through_the_gift_shop/), off-beat indies like James Franco’s [*Howl*](https://www.rottentomatoes.com/m/1211483-howl) and new cult favorites like [*Girl Asleep*](https://www.rottentomatoes.com/m/girl_asleep_2016) and [*The Fits*](https://www.rottentomatoes.com/m/the_fits_2016)
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Do you make great movies or have a lively YouTube channel? Email reilly@lbry.io for some red carpet treatment, LBRY style.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Do you make great movies or have a lively YouTube channel? Email reilly@lbry.com for some red carpet treatment, LBRY style.

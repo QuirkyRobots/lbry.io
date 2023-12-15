@@ -18,4 +18,4 @@ Janna’s six minute short won the Grand Jury Prize at [Florida Film Festival fo
 
 It can be seen at **[lbry://skateyrselfclean](lbry://skateyrselfclean)** now.
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Or if you’re a creator, skip our wait list for a chance to earn $1,000 in LBRY Credits. [Learn more here](https://lbry.io/publish).
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Or if you’re a creator, skip our wait list for a chance to earn $1,000 in LBRY Credits. [Learn more here](https://lbry.com/publish).

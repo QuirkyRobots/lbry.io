@@ -5,9 +5,9 @@ date: '2017-08-03 00:17:30'
 cover: 'lbryui-banner.png'
 ---
 
-With the launch of [open beta](https://lbry.io/news/popup-open-beta) on July 31st, we’re officially entering LBRY Year Two. So we figured it was time to update #LBRYcast as well.
+With the launch of [open beta](https://lbry.com/news/popup-open-beta) on July 31st, we’re officially entering LBRY Year Two. So we figured it was time to update #LBRYcast as well.
 
-*(Haven’t grabbed the beta yet? Do it [here](https://lbry.io/get).)*
+*(Haven’t grabbed the beta yet? Do it [here](https://lbry.com/get).)*
 
 LBRYcast will now be a weekly spotlight on new and great content available on the network. Each week, we’ll spotlight one or more creators that are available via LBRY.
 
@@ -23,7 +23,7 @@ So that’s #LBRYcast. Here’s this week’s great stuff…
 ### Recollection
 
 
-As you can tell from [several](https://lbry.io/news/slav) [previous](https://lbry.io/news/whoiscapital) [LBRYcast posts](https://lbry.io/news/acousticlabs), I like to find the best sounds on LBRY. And this week is another chart topper.
+As you can tell from [several](https://lbry.com/news/slav) [previous](https://lbry.com/news/whoiscapital) [LBRYcast posts](https://lbry.com/news/acousticlabs), I like to find the best sounds on LBRY. And this week is another chart topper.
 
 ![Recollection](/img/news/recollection-inline.jpg)
 
@@ -36,4 +36,4 @@ As you can tell from [several](https://lbry.io/news/slav) [previous](https://lbr
 
 Check it out. Smash that Watch button. Listen to the illest (re)collection of sounds on LBRY.
 
-**[Download LBRY today](https://lbry.io/get)**. Is your favorite channel not on LBRY? They’re eligible for $250 LBC. Help us feature what you want to see! Email reilly@lbry.io to make it happen. Or sync your own channel at: https://api.lbry.io/yt/connect?type=sync
+**[Download LBRY today](https://lbry.com/get)**. Is your favorite channel not on LBRY? They’re eligible for $250 LBC. Help us feature what you want to see! Email reilly@lbry.com to make it happen. Or sync your own channel at: https://api.lbry.com/yt/connect?type=sync

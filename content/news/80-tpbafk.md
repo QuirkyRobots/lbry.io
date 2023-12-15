@@ -22,4 +22,4 @@ This is arguably one of the most important documentaries in recent memory (and a
 
 [*The Internet’s Own Boy*](lbry://theinternetsownboy) premiered at Sundance in 2014, SXSW, and was shortlisted for the Academy Awards for Best Documentary Film.
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Do you make great movies? Email reilly@lbry.io to get in on the action.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Do you make great movies? Email reilly@lbry.com to get in on the action.

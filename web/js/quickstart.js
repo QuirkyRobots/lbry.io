@@ -60,7 +60,7 @@ lbry.quickstartForm = function (selector, apiUrl) {
         .done(function (responseData) {
           var data = responseData.data;
           var anchor = $('<a class="link-primary--break-word"></a>');
-          anchor.attr("href", "https://explorer.lbry.io/tx/" + data.TransactionID);
+          anchor.attr("href", "https://explorer.lbry.com/tx/" + data.TransactionID);
           anchor.html(data.TransactionID)
           form.find('.notice-success')
             .html(data.RewardAmount + " credits sent in transaction ")
@@ -70,7 +70,7 @@ lbry.quickstartForm = function (selector, apiUrl) {
         })
         .fail(function (xhr) {
           var responseData = $.parseJSON(xhr.responseText);
-          form.find('.notice-error').html(responseData.error.length ? responseData.error : "Something went wrong. Please email grin@lbry.io").show();
+          form.find('.notice-error').html(responseData.error.length ? responseData.error : "Something went wrong. Please email grin@lbry.com").show();
         })
         .always(resetFormState);
     })

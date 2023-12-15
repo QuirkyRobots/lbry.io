@@ -4,7 +4,7 @@ title: 'Strumming up a Storm'
 date: '2017-06-15 00:08:00'
 cover: 'acoustic-labs-banner.jpg'
 ---
-We’ve already seen the benefits of LBRY [for bands](https://lbry.io/news/matt-sokol) and [solo artists](https://lbry.io/news/whoiscapital).
+We’ve already seen the benefits of LBRY [for bands](https://lbry.com/news/matt-sokol) and [solo artists](https://lbry.com/news/whoiscapital).
 
 But there’s so much more to the music world. What if you could not only listen to music, but buy tabs or lessons or film scores for your *own* movie directly on LBRY?
 
@@ -19,4 +19,4 @@ Check him out soon on LBRY at:
 
 If you're sick of Bandcamp or Spotify, LBRY could be your new outlet.
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Have tabs for sale or girls to impress with your strumming? Email reilly@lbry.io to be super cool. Or sync your channel at: https://api.lbry.io/yt/connect?type=sync
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Have tabs for sale or girls to impress with your strumming? Email reilly@lbry.com to be super cool. Or sync your channel at: https://api.lbry.com/yt/connect?type=sync

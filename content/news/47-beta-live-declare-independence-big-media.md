@@ -16,7 +16,7 @@ It’s expensive to store and serve a bunch of content, so the market is dominat
 
 With LBRY, content creators – be they filmmakers, musicians, writers, or software developers – are empowered to set their own price and release their works to the world with a few clicks of the mouse.  There are no ads, no corporate censors, and LBRY takes no portion of your income. For consumers, it means there is finally an alternative to the big media stores and the murky world of BitTorrent – which doesn’t have a payment system and therefore is run on goodwill.
 
-The LBRY app we're releasing today is the first of its kind – a media marketplace powered by a blockchain and yet easy enough for your Grandma to use. The release includes a LBRY client with one-click installation for Linux and OS X. Initially, the beta is invite-only to allow a gradual scaling of the network. Invites can be requested at www.lbry.io/get.
+The LBRY app we're releasing today is the first of its kind – a media marketplace powered by a blockchain and yet easy enough for your Grandma to use. The release includes a LBRY client with one-click installation for Linux and OS X. Initially, the beta is invite-only to allow a gradual scaling of the network. Invites can be requested at lbry.com/get.
 
 Indie production houses have seen the potential in LBRY. **[Oscilloscope Laboratories](http://www.oscilloscope.net/) and [Emergent Order](http://emergentorder.com/) signed on as featured content partners for today’s launch.** So right from the start, beta users will be treated to the following premium films:
 
@@ -36,13 +36,13 @@ Indie production houses have seen the potential in LBRY. **[Oscilloscope Laborat
 
 In addition to watching these films and other pieces already uploaded to LBRY, there are several ways users can interact with the platform – and begin generating income – once they receive beta access:
 
-* Cryptocoin enthusiasts can **begin mining our new token**, called *LBRY credits*, by following [these instructions](https://lbry.io/faq/mining-credits).
+* Cryptocoin enthusiasts can **begin mining our new token**, called *LBRY credits*, by following [these instructions](https://lbry.com/faq/mining-credits).
 * Creators can **upload their own content**, set a price, and start earning credits using the app’s publishing tools.
 * And anyone with spare disk space can **host content** and earn credits simply by downloading something from LBRY and leaving the app running.
 
-**<p style="text-align: center;">[Join the Waitlist for Early Access](https://lbry.io/get)</p>**
+**<p style="text-align: center;">[Join the Waitlist for Early Access](https://lbry.com/get)</p>**
 
-LBRY is a key component of Web 3.0, a new internet infrastructure that is secure, open-source, and natively decentralized. The company is self-financed and has assembled a [stellar team](https://lbry.io/team) of creatives and technologists.
+LBRY is a key component of Web 3.0, a new internet infrastructure that is secure, open-source, and natively decentralized. The company is self-financed and has assembled a [stellar team](https://lbry.com/team) of creatives and technologists.
 
 
 

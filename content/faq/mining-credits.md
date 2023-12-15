@@ -31,4 +31,4 @@ You can download the latest binaries [here](https://github.com/lbryio/lbrycrd/re
 
 ## Compiling
 
-Join us on [Discord Chat](https://chat.lbry.io) if you need help compiling from source!
+Join us on [Discord Chat](https://chat.lbry.com) if you need help compiling from source!

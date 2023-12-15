@@ -44,6 +44,6 @@ Additionally, whichever processor lands the New Hampshire government will be a h
 Thank You,
 
 Jeremy Kauffman
-Entrepreneur, CEO of [LBRY](https://lbry.io) and [TopScore](http://usetopscore.com)
+Entrepreneur, CEO of [LBRY](https://lbry.com) and [TopScore](http://usetopscore.com)
 
-![LBRY](https://lbry.io/img/header-logo-dark.png)
+![LBRY](https://lbry.com/img/header-logo-dark.png)

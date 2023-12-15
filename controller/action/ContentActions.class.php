@@ -284,7 +284,7 @@ class ContentActions extends Actions
 //    <head prefix="og: http://ogp.me/ns#">
 //        <title>LBRY Press Kit</title>
 //        <link href='https://fonts.googleapis.com/css?family=Raleway:300,300italic,400,400italic,700' rel='stylesheet' type='text/css'>
-//        <link href="https://lbry.io/css/all.css" rel="stylesheet" type="text/css" media="screen,print" />
+//        <link href="https://lbry.com/css/all.css" rel="stylesheet" type="text/css" media="screen,print" />
 //    </head>
 //    <body>
 //      $pageHtml

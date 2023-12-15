@@ -17,4 +17,4 @@ If you’ve been on the fence about watching [It’s a Disaster](lbry://itsadisa
 
 BRB another trailer for The Last Jedi is out...
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Sharing something new? Email reilly@lbry.io to board the hype train.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Sharing something new? Email reilly@lbry.com to board the hype train.

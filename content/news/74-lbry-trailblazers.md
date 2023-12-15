@@ -75,4 +75,4 @@ We salute them. And then we enjoy them.
 - [*Hock Tour Paris*](lbry://sporthock-paris)
 - [*Hock Tour Rotterdam*](lbry://sporthock-rotterdam)
 
-**Not on LBRY yet?** [Get an invite here](https://lbry.io/get). Want to share your niche with the world? Email reilly@lbry.io for a trip to the front of the line.
+**Not on LBRY yet?** [Get an invite here](https://lbry.com/get). Want to share your niche with the world? Email reilly@lbry.com for a trip to the front of the line.
